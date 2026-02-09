@@ -1,11 +1,23 @@
-<div align="center">
+# 🧠 TriviaGenius AI Host
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Welcome to **TriviaGenius AI**, a high-stakes, personality-driven trivia experience where the host isn't just a script—it's a living, breathing (simulated) entity that reacts to your every win and fail.
 
-  <h1>Built with AI Studio</h2>
+## 🎭 Game Features
+- **Dynamic AI Personalities**: Choose from Snarky, Cozy, Dramatic, Hype, Nerdy, or Mysterious hosts. Each one uses the Gemini API to generate unique commentary based on your performance.
+- **AI-Generated Trivia**: Questions are dynamically generated across various categories like Internet Culture, Obscure Science, and Video Game History.
+- **In-Game Context Menu**: Right-click anywhere to access the game-specific menu. Change your host, skip questions, or get a hint without leaving the flow.
+- **Custom Interaction System**: A reactive custom cursor and animated host avatar that changes expressions based on the AI's "mood."
+- **High Stakes HUD**: Track your score, streaks, and time with a sleek, neon-arcade inspired interface.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## ⚠️ Known Issues & Limitations
+- **Voice Playback**: The AI voice synthesis is currently experimental. Due to the nature of the buffer-based playback, **voice lines cannot be stopped mid-speech** even if the question is skipped or the game is reset. If the host becomes too talkative, you may need to mute the browser tab manually.
+- **Hints**: The "Hint" feature in the right-click menu provides a basic clue (usually the first letter). It works "good enough" for now but may occasionally be cryptic depending on the AI's mood.
+- **Browser Compatibility**: The custom cursor is disabled on touch devices to ensure mobile playability.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Technology
+- **Engine**: React 19 + Tailwind CSS.
+- **Intelligence**: Google Gemini (gemini-3-flash-preview) for logic and personality.
+- **Speech**: Gemini TTS (gemini-2.5-flash-preview-tts).
+- **Icons**: Lucide React.
 
-</div>
+Enjoy the challenge, and try not to let the Snarky host get under your skin!

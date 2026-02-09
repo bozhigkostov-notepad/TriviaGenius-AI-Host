@@ -1,0 +1,7 @@
+{
+  "name": "TriviaGenius AI Host",
+  "description": "A high-stakes, personality-driven trivia game hosted by an adaptive AI. Featuring custom cursors, a game-specific context menu, and dynamic voice commentary.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
