@@ -2,6 +2,10 @@
 
 Welcome to **TriviaGenius AI**, a high-stakes, personality-driven trivia experience where the host isn't just a script—it's a living, breathing (simulated) entity that reacts to your every win and fail.
 
+<img width="1252" height="679" alt="image" src="https://github.com/user-attachments/assets/8919d6e4-8e2a-4670-a87f-9877c5155a42" />
+<img width="1252" height="679" alt="image" src="https://github.com/user-attachments/assets/8919d6e4-8e2a-4670-a87f-9877c5155a42" />
+
+
 ## 🎭 Game Features
 - **Dynamic AI Personalities**: Choose from Snarky, Cozy, Dramatic, Hype, Nerdy, or Mysterious hosts. Each one uses the Gemini API to generate unique commentary based on your performance.
 - **AI-Generated Trivia**: Questions are dynamically generated across various categories like Internet Culture, Obscure Science, and Video Game History.
