@@ -22,4 +22,5 @@ Welcome to **TriviaGenius AI**, a high-stakes, personality-driven trivia experie
 - **Speech**: Gemini TTS (gemini-2.5-flash-preview-tts).
 - **Icons**: Lucide React.
 
-Enjoy the challenge, and try not to let the Snarky host get under your skin!
+## 🔗 Test the App
+https://ai.studio/apps/drive/18XOE8u1KQ9cyqZ5bEN9_DNbG3-QTNZOR
